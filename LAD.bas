@@ -1,5 +1,5 @@
 Attribute VB_Name = "LAD"
-Public Const LAD = "LDAP://YourDomainHere.com"
+Const LAD = "LDAP://YourDomainHere.com"
 
 Sub getNetIdFromName(Name As String, Email As String, NetId As String)
 
