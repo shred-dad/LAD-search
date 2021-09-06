@@ -8,4 +8,6 @@ Import all 3 files to your excel macro VBA editor ( 4 files total but UserForm1.
 3) UserForm1.frx ( file )
 4) LAD.bas ( file )
 
+Change the LAD constant in LAD module to your Domain and you're good to go ( Public Const LAD = "LDAP://YourDomainHere.com" )
+
 This was created some years ago, so all improvements welcome ;)
