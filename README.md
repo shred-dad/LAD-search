@@ -1,4 +1,4 @@
-# LAD-search
+# LAD-search ( Local active directory )
 VBA/EXCEL Local Active Directory user details search ( Display name, email, NetID )
 - This excel VBA scrip opens in an additional excel instance, so you're not blocked using other excel files or macros
 
